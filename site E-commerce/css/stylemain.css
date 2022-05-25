@@ -1,0 +1,45 @@
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2.3rem;
+    padding-left: 2.0rem;
+}
+
+body{
+    background-color: gray;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+.container-carrousel{
+    max-width:1400px;
+    
+}
+
+.w-100 {
+    width: 100%!important;
+    height: 100%!important;
+}
+
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 500px;
+}
+
+.flex-fill{
+    margin-bottom: 30px;
+}
+
+
+.row.g-3{
+    gap: 30px;
+}
+
+h1{
+    color: white;
+}
